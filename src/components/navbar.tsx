@@ -1,5 +1,5 @@
 import Link from "next/link"
-import MobileMenu from "./mobile-menu"
+import MobileMenu from "./mobilemenu"
 import Image from "next/image"
 import { ClerkLoaded, ClerkLoading, SignedIn, SignedOut, UserButton } from "@clerk/nextjs"
 
